@@ -3,8 +3,12 @@ import datetime
 
 from threading import Thread
 from datetime import time
+from colorama import init
+from colorama import Fore, Back, Style
 
-print("""
+init()
+
+print(Fore.GREEN + """
  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 ▒▒▒═══════════════════════════▒▒▒
 ▒▒║▄▄▄▄▄░▒░▄▄▄▄░▒▄░▄░▒▒▄░▄▄▄▄░║▒▒
