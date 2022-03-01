@@ -25,19 +25,19 @@
 ____
 # Termux
 ## Install
-$ pkg install git
+        $ pkg install git
 ____
-$ pkg install python
+        $ pkg install python
 ____
-$ pip install requests
+        $ pip install requests
 ____
-$ pip install colorama
+        $ pip install colorama
 ____
-$ git clone https://github.com/DriverStudio/ddos
+        $ git clone https://github.com/DriverStudio/ddos
 ____
 ## Launch
-$ cd ddos
+        $ cd ddos
 ____
-$ python3 main.py
+        $ python3 main.py
 ____
 # Attention! It's illegal!
