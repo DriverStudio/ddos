@@ -4,8 +4,22 @@ import datetime
 from threading import Thread
 from datetime import time
 
+print("""
+ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▒▒═══════════════════════════▒▒▒
+▒▒║▄▄▄▄▄░▒░▄▄▄▄░▒▄░▄░▒▒▄░▄▄▄▄░║▒▒
+▒▒║█░░░░█░█░░░░█░▒▒█░▒▒█░█░░░▒║▒▒
+▒▒║█░░░░█░█░░░░█░█░█░▒▒█░█░▒▒▒║▒
+ ▒║█░░░░█░█▀▀▀█░▒█░▒█░█░▒█▀▀░▒║▒▒
+▒▒║█░░░░█░█░▒▒▒█░█░▒█░█░▒█░░▒▒║▒▒
+▒▒║▀▀▀▀▀░▒▀░▒▒▒▀░▀░▒▒▀░▒▒▀▀▀▀░║▒▒
+▒▒▒═══════════════════════════▒▒▒
+ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+\n
+""")
+print('Use at your own risk. DDOS attack is illegal and punishable!\n')
 url = input('Url: ')
-thrnom = input('Threads: ')
+thrnom = input('Threads(300 - 800): ')
 
 on = 1
 
