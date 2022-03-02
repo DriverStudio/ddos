@@ -25,33 +25,33 @@
 ____
 # Termux
 ## Install
-        $ apt update
+    $ apt update
 ____
-        $ apt upgrade
+    $ apt upgrade
 ____
-        $ apt install git
+    $ apt install git
 ____
-        $ apt install python3
+    $ apt install python3
 ____
-        $ pip3 install requests
+    $ pip3 install requests
 ____
-        $ pip3 install colorama
+    $ pip3 install colorama
 ____
-        $ git clone https://github.com/DriverStudio/ddos
+    $ git clone https://github.com/DriverStudio/ddos
 ____
 
 ### One-line command
-        apt update ; apt upgrade ; apt install git ; apt install python3 ; pip3 install requests ; pip3 install colorama ; git clone https://github.com/DriverStudio/ddos
+    apt update ; apt upgrade ; apt install git ; apt install python3 ; pip3 install requests ; pip3 install colorama ; git clone https://github.com/DriverStudio/ddos
 ____
 
 ## Launch
-        $ cd ddos
+    $ cd ddos
 ____
-        $ python3 main.py
+    $ python3 main.py
 ____
 
 ### One-line command
-        cd ddos ; python3 main.py
+    cd ddos ; python3 main.py
 ____
 
 # Attention! It's illegal!
