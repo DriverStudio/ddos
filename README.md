@@ -25,13 +25,17 @@
 ____
 # Termux
 ## Install
-        $ pkg install git
+        $ apt update
 ____
-        $ pkg install python
+        $ apt upgrade
 ____
-        $ pip install requests
+        $ apt install git
 ____
-        $ pip install colorama
+        $ apt install python3
+____
+        $ pip3 install requests
+____
+        $ pip3 install colorama
 ____
         $ git clone https://github.com/DriverStudio/ddos
 ____
