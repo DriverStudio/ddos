@@ -25,7 +25,7 @@
 ____
 # Termux
 ## Install
-        $ apt update
+$ apt update
 ____
         $ apt upgrade
 ____
