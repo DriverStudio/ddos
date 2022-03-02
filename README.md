@@ -39,11 +39,21 @@ ____
 ____
         $ git clone https://github.com/DriverStudio/ddos
 ____
+
+### One-line command
+        apt update ; apt upgrade ; apt install git ; apt install python3 ; pip3 install requests ; pip3 install colorama ; git clone https://github.com/DriverStudio/ddos
+____
+
 ## Launch
         $ cd ddos
 ____
         $ python3 main.py
 ____
+
+### One-line command
+        cd ddos ; python3 main.py
+____
+
 # Attention! It's illegal!
 
          ▄▄▄▄▄▄▄▄▄▄▄▄▄, ,▄▄▄▄   ▄▄▄▄,       ,▄▄▄▄        ▄▄▄▄▄   ,▄▄▄. ,▄▄▄▄   ,▄▄▄▄.
